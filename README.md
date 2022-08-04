@@ -1,0 +1,2 @@
+# odoo-kubernetes
+odoo kubernetes
